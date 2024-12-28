@@ -11,7 +11,8 @@ Key questions answered:
 
 ### 🛠️ Tools Used  
 - **Excel**: Data cleaning and initial analysis.  
-- **Power BI**: Visualization of sales trends and insights.  
+- **Power BI**: Visualization of sales trends and insights.
+- **Mysql**: Data Cleaning and merging of files.
 
 ---
 
@@ -25,7 +26,8 @@ Key questions answered:
 
 ### 📂 Files in This Repository  
 - `Bike Sales Data.xlsx`: Raw dataset.  
-- `Bike Sales Dashboard.pbix`: Power BI dashboard file.  
+- `Bike Sales Dashboard.pbix`: Power BI dashboard file.
+- `Bike data Sql Query`: Mysql Query
 - `Insights.pdf`: Summary of insights and recommendations.  
 
 ---
